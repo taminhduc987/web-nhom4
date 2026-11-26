@@ -25,7 +25,7 @@ calculator/
 
 | Thành viên | Phụ trách | File | Nhánh |
 |---|---|---|---|
-| Đức (trưởng nhóm) | Logic tính toán; review và merge Pull Request | `js/calculator.js` | `feature/logic` |
+| Đức | Logic tính toán; review và merge Pull Request | `js/calculator.js` | `feature/logic` |
 | Diệp | Giao diện bằng Bootstrap; lịch sử phép tính; chế độ sáng/tối | `index.html`, `css/style.css` | `feature/ui` |
 | Phương | Bắt sự kiện click và bàn phím; định dạng số hiển thị; cập nhật README | `js/app.js`, `README.md` | `feature/events` |
 
